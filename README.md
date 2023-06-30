@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @probabylity
-- 👀 I’m interested in iOS-development and ML.
+- 👀 I’m interested in Data Analytics and Machine Learning.
